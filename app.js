@@ -188,7 +188,7 @@ const app = Vue.createApp({
             ],
             footer:
             {
-                footerText: "Copyright © 2023 CYBER-FILLING Consulting",
+                footerText: "Copyright © 2025 Filling Continuous Technology Co., Ltd.",
                 contact : {
                     place_title: "Office Location",
                     place: "Wanchai, Hong Kong",
